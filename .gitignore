@@ -3,3 +3,15 @@
 ################################################################################
 
 /.vs
+/Sketcher.AppMetrics/obj
+/Sketcher.AppMetrics/bin/Debug/netcoreapp2.2
+/Sketcher.Autofac/obj
+/Sketcher.Autofac/bin/Debug/netcoreapp2.2
+/Sketcher.Core/obj
+/Sketcher.Core/bin/Debug/netcoreapp2.2
+/Sketcher.Domain/obj
+/Sketcher.Domain/bin/Debug/netcoreapp2.2
+/Sketcher.Exceptionless/obj
+/Sketcher.Exceptionless/bin/Debug/netcoreapp2.2
+/Sketcher.Ocelot/obj
+/Sketcher.Ocelot/bin/Debug/netcoreapp2.2
